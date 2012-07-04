@@ -24,7 +24,7 @@
 				<key>lineHighlight</key>
 				<string>#FFFFFF20</string>
 				<key>selection</key>
-				<string>#DDF0FF33</string>
+				<string>#DDF0FF44</string>
 			</dict>
 		</dict>
 		<dict>
@@ -354,7 +354,7 @@
 				<key>foreground</key>
 				<string>#bbb</string>
 			</dict>
-		</dict> 
+		</dict>
 		<!-- script style的标签的颜色设置 -->
 		<dict>
 			<key>name</key>
@@ -366,7 +366,7 @@
 				<key>foreground</key>
 				<string>#5BA1CF</string>
 			</dict>
-		</dict> 
+		</dict>
 		<!-- :hover :active伪类的颜色  -->
 		<dict>
 			<key>name</key>
@@ -378,7 +378,7 @@
 				<key>foreground</key>
 				<string>#F2DA3B</string>
 			</dict>
-		</dict> 
+		</dict>
 
 		<dict>
 			<key>name</key>
@@ -390,7 +390,7 @@
 				<key>foreground</key>
 				<string>#bbb</string>
 			</dict>
-		</dict> 
+		</dict>
 
 		<dict>
 			<key>name</key>
@@ -402,7 +402,7 @@
 				<key>foreground</key>
 				<string>#3E87E3</string>
 			</dict>
-		</dict> 
+		</dict>
 
 		<!-- tag的颜色 -->
 		<dict>
