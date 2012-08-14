@@ -1,31 +1,5 @@
-# sunburst scheme
+fork 自 @chongzhi 的 [scheme-sunburst-ex][scheme-sunburst-ex] 配色方案，針對自己需要的部份重新上色。
 
-sublime text 2的舒适配色方案 (基于sunburst修改)
+[scheme-sunburst-ex]: https://github.com/chongzhi/scheme-sunburst-ex
 
-## 效果图
-
-![sunburst scheme](http://www.ueder.net/wp-content/uploads/2012/03/test.png)
-
-## 安装
-
-提供三种方式安装
-
-### package control 安装
-
-如果你安装了package control ([详情点这里](http://wbond.net/sublime_packages/package_control/installation)) 可以通过 `package control : add repository` 添加github仓库(`https://github.com/chongzhi/scheme-sunburst-ex`)至package control， 然后就可以通过 `package control : install package` 进行安装
-
-### git
-
-如果你是git用户，直接sublime里 `Preferences` > `Browse Packages` 进入插件目录，执行以下git代码
-
-    git clone https://chongzhi@github.com/chongzhi/scheme-sunburst-ex.git
-
-然后就可以在 `Preferences` > `Color Scheme` 里选择本配色方案
-
-
-### 直接下载安装
-
-下载所有文件到你的sublime text2目录下的packages目录，即可在 `Preferences` > `Color Scheme`里选择
-
-
-
+![sunburst scheme](http://f.cl.ly/items/2k2h2S1v3I3J3L3w2424/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202012-08-14%20%E4%B8%8A%E5%8D%888.14.30.png)
