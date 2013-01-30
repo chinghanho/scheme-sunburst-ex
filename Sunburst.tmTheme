@@ -25,10 +25,12 @@
 				<string>#FFFFFF20</string>
 				<key>selection</key>
 				<string>#DDF0FF44</string>
+				<key>selectionBorder</key>
+				<string>#dddddd92</string>
 				<key>stackGuide</key>
 				<string>#75757580</string>
 				<key>activeGuide</key>
-				<string>#B5363680</string>
+				<string>#B5363690</string>
 			</dict>
 		</dict>
 		<dict>
